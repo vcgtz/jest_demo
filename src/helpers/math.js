@@ -5,7 +5,7 @@ const multiply = (a, b) => a * b;
 const pow = (base, exponent) => base ** exponent;
 
 module.exports = {
-    sum,
-    multiply,
-    pow
+  sum,
+  multiply,
+  pow
 };
